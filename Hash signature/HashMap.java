@@ -1,5 +1,5 @@
 package com.company;
-/**
+
  * HASHING FUNCTION:
  * In this implementation, I used Java's native hashCode() function, which
  * is: s[0]*31^(n-1) + s[1]*31^(n-2) + ... + s[n-1]                          [2]
