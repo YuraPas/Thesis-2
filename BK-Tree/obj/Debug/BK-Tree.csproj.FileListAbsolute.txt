@@ -1,0 +1,13 @@
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\bin\Debug\BK-Tree.exe.config
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\obj\Debug\BK-Tree.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\bin\Debug\BK-Tree.exe
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\bin\Debug\BK-Tree.pdb
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\obj\Debug\BK-Tree.exe
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\obj\Debug\BK-Tree.pdb
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\bin\Debug\BK-Tree.exe.config
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\bin\Debug\BK-Tree.exe
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\bin\Debug\BK-Tree.pdb
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\obj\Debug\BK-Tree.csproj.CoreCompileInputs.cache
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\obj\Debug\BK-Tree.exe
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\obj\Debug\BK-Tree.pdb
+C:\Users\yuriy.paslavskyi\Desktop\thesis\Spellcheck\BK-Tree\obj\Debug\BK-Tree.csprojAssemblyReference.cache
